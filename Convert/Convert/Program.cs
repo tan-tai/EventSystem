@@ -33,7 +33,6 @@ class Program
             File.WriteAllText(outputFileName, capitalizedContent);
 
             Console.WriteLine("File processing complete. Check 'output.txt' for the result.");
-            Console.ReadKey();
         }
         catch (IOException e)
         {
