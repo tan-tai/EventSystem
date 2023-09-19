@@ -1,0 +1,7 @@
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\bin\Debug\EventSystem.exe.config
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\bin\Debug\EventSystem.exe
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\bin\Debug\EventSystem.pdb
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\obj\Debug\EventSystem.csproj.AssemblyReference.cache
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\obj\Debug\EventSystem.csproj.CoreCompileInputs.cache
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\obj\Debug\EventSystem.exe
+C:\Users\enzo.nguyen\source\repos\EventSystem\EventSystem\EventSystem\obj\Debug\EventSystem.pdb
