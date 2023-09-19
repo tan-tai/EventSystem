@@ -1,0 +1,7 @@
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\bin\Debug\Convert.exe.config
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\bin\Debug\Convert.exe
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\bin\Debug\Convert.pdb
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\obj\Debug\Convert.csproj.AssemblyReference.cache
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\obj\Debug\Convert.csproj.CoreCompileInputs.cache
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\obj\Debug\Convert.exe
+C:\Users\enzo.nguyen\source\repos\EventSystem\Convert\Convert\obj\Debug\Convert.pdb
